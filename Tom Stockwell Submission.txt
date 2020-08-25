@@ -1,0 +1,2 @@
+https://tomstockwell.pythonanywhere.com/
+https://github.com/StockwellTom/django-blog
